@@ -305,7 +305,7 @@ Rest of Authenticate while registering and logging in is similar to L5 Auth.
 ---
 
 
-<img src="public/img1.png"> <br/>
-<img src="public/img2.png"> <br/>
-<img src="public/img3.png"> <br/>
+<img src="public/img1.jpg"> <br/>
+<img src="public/img2.jpg"> <br/>
+<img src="public/img3.jpg"> <br/>
 
